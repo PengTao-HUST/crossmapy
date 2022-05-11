@@ -12,11 +12,10 @@ pip install crossmapy
 ### Examples
 #### 1. 3-variable logistic system
 
-we use the following cascade case
-![cascade](https://github.com/PengTao-HUST/crossmapy/blob/master/figures/cascade.jpg?raw=true)
-<img src="https://github.com/PengTao-HUST/crossmapy/blob/master/figures/cascade.jpg" width="100px">
-the corresponding dynamical equations is
-![equation](https://github.com/PengTao-HUST/crossmapy/blob/master/figures/equations.png?raw=true)
+we use the following cascade case  
+<img src="https://github.com/PengTao-HUST/crossmapy/blob/master/figures/cascade.jpg" width="300px">  
+the corresponding dynamical equations is 
+<img src="https://github.com/PengTao-HUST/crossmapy/blob/master/figures/equations.png" width="500px">  
 where α<sub>x</sub> = 3.68, α<sub>y</sub>= 3.72 and α<sub>z</sub>= 3.68
 
 ##### 1.1 import packages
