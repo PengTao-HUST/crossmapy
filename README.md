@@ -14,6 +14,7 @@ pip install crossmapy
 
 we use the following cascade case
 ![cascade](https://github.com/PengTao-HUST/crossmapy/blob/master/figures/cascade.jpg?raw=true)
+<img src="https://github.com/PengTao-HUST/crossmapy/blob/master/figures/cascade.jpg" width="100px">
 the corresponding dynamical equations is
 ![equation](https://github.com/PengTao-HUST/crossmapy/blob/master/figures/equations.png?raw=true)
 where α<sub>x</sub> = 3.68, α<sub>y</sub>= 3.72 and α<sub>z</sub>= 3.68
